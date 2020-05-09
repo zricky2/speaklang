@@ -1,0 +1,2 @@
+# speaklang
+This application allows the user to practice speaking English or Chinese by generating a new phrases for the user to say. The application will pick up on the speech, and determine the accuracy.
